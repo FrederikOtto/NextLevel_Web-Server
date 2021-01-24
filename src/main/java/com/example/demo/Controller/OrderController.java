@@ -23,7 +23,7 @@ import java.util.*;
         "http://localhost:8081",
         "http://localhost:3000",
         "https://next-level-web-client.herokuapp.com",
-        "http://nextlevelclient-env.eba-3tw249tp.us-east-1.elasticbeanstalk.com"
+        "http://ec2-34-238-148-16.compute-1.amazonaws.com:8081"
 })
 @RestController
 @RequestMapping("/orders")
